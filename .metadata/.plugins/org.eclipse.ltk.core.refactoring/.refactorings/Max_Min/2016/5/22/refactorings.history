@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;&apos; to &apos;maxMin.data&apos;&#x0D;&#x0A;- Original project: &apos;Max_Min&apos;&#x0D;&#x0A;- Destination element: &apos;maxMin.data&apos;&#x0D;&#x0A;- Original element: &apos;maxMin.min&apos;&#x0D;&#x0A;- Textual move only&#x0D;&#x0A;- Update references to refactored element" description="Move field" destination="/src&lt;{maxMin.java[maxMin^data" element1="/src&lt;{maxMin.java[maxMin^min" flags="589830" id="org.eclipse.jdt.ui.move" members="1" policy="org.eclipse.jdt.ui.moveMembers" stamp="1464405949742" version="1.0"/>
+</session>

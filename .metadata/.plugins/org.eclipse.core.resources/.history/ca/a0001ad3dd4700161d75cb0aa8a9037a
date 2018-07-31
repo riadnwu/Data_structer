@@ -1,0 +1,10 @@
+
+import java. util. * ;
+public class main {
+public static void main(String args[ ] ) {
+// create a linked list
+String ll[]=new String[1];
+ll[0]=new String("sadsfd");
+System. out. println(" ll after change: " + ll);
+}
+}

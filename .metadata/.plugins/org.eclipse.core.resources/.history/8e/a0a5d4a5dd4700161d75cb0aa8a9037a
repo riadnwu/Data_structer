@@ -1,0 +1,14 @@
+
+import java. util. * ;
+public class main {
+public static void main(String args[ ] ) {
+// create a linked list
+LinkedList ll[] = new LinkedList[2];
+// add elements to the linked list
+ll[1] = new LinkedList();
+ll[1]. add(" F" );
+ll[1]. add(" B" );
+
+System. out. println(" ll after change: " + ll[1]);
+}
+}

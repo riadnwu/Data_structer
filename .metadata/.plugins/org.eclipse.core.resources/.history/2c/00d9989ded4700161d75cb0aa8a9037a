@@ -1,0 +1,10 @@
+
+import java. util. * ;
+public class main {
+public static void main(String args[ ] ) {
+String ll[]=new String[1];
+ll[0]=new String();
+ll[0]=String.format("sudush");
+System. out. println(ll[0]);
+}
+}
